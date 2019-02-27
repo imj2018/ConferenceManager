@@ -1,0 +1,8 @@
+c:\users\owner\documents\visual studio 2017\Projects\ConferenceManager\ConferenceManager\obj\Debug\ConferenceManager.csprojAssemblyReference.cache
+c:\users\owner\documents\visual studio 2017\Projects\ConferenceManager\ConferenceManager\obj\Debug\ConferenceManager.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\Visual Studio 2017\Projects\ConferenceManager\ConferenceManager\bin\Debug\ConferenceManager.exe.config
+C:\Users\owner\Documents\Visual Studio 2017\Projects\ConferenceManager\ConferenceManager\bin\Debug\ConferenceManager.exe
+C:\Users\owner\Documents\Visual Studio 2017\Projects\ConferenceManager\ConferenceManager\bin\Debug\ConferenceManager.pdb
+C:\Users\owner\Documents\Visual Studio 2017\Projects\ConferenceManager\ConferenceManager\obj\Debug\ConferenceManager.exe
+C:\Users\owner\Documents\Visual Studio 2017\Projects\ConferenceManager\ConferenceManager\obj\Debug\ConferenceManager.pdb
+C:\Users\owner\Documents\Visual Studio 2017\Projects\ConferenceManager\ConferenceManager\bin\Debug\file.txt
